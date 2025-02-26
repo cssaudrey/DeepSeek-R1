@@ -5,3 +5,5 @@ DeepSeek-R1 Deploy and Finetune step by step guide
 
 基于基于DeepSeek-R1范式对phi4模型进行蒸馏distill：deepseek_r1_distill_phi4.py
 
+基于deepseek_r1_distill-qwen 进行medical 数据的SFT :medical-finetune-DeepSeek-R1-Distill-qwen7b
+
